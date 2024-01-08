@@ -19,7 +19,7 @@
 
 
 ## Technologies Used
-- Python 3.11.4
+- Python 3.11.5
 
 
 ## Conclusions
